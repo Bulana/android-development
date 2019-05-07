@@ -1,14 +1,11 @@
-This is Android according to Google Developers. I will be going through their material line by line, and of course use external sources when necessary.
+This is where we create a simple user interface off of the android developer site.
 
-Branches will represent content topics.
+What is the interface made of?
 
-Contents 
---------------------------
+The interface is made of layouts and widgets hierarchy. Layouts are ViewGroup objects and widgets are Vew objects. 
 
-    1. Android is an ecosystem
-    2. Android platform acrchitecture 
-    3. Adroid Versions
-    4. Challenges of Android app development 
-    5. App fundamentals 
+Layouts are containers that control how their child views are positioned on the screen, ok. Widgets are UI componets such as buttons and text boxes.
+
+
     
     
