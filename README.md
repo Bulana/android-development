@@ -22,9 +22,10 @@ Broadcast Recievers and Services Components
 
 True, but how they ADAPT?
         
-    Android allows you to provide different resources for different devices. For example, you can create different layouts for different screens. The system will determine which layout to use based on the current devices screen size.
+    1. Android allows you to provide different resources for different devices. For example, you can create different layouts for different screens. The system will determine which layout to use based on the current devices screen size.
     
-    The app can query whether the device has hardware for a feature. Example, the camera, at runtime you can check if the device has the camera and the disable the feature if response if false.  
+    2. The app can query whether the device has hardware for a feature. Example, the camera, at runtime you can check if the device has the camera and the disable the feature if response if false.
+    
     I think, you first check before using features...
     Some features can be set as required.
     
