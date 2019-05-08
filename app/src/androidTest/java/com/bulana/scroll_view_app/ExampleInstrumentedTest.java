@@ -1,4 +1,4 @@
-package com.bulana.plus_minus;
+package com.bulana.scroll_view_app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.bulana.plus_minus", appContext.getPackageName());
+        assertEquals("com.bulana.scroll_view_app", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.bulana.plus_minus;
+package com.bulana.scroll_view_app;
 
 import org.junit.Test;
 
