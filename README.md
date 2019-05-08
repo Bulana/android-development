@@ -1,8 +1,8 @@
-This app will has two buttons and label showing numbers.
+This app has two buttons and text view for the counter.
 
-The main purpose is to show understanding of android layouts and widgets.
+The main purpose of this activity to show understanding of android layouts and widgets.
 
- I struggled with specifying my new UI string from the strings.xml file using the Editor...I actually forgot to use the Open Editor. 
+I ended up using listeners for handling click events, which make more sense than using the xml.
 
     
     
