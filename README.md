@@ -1,14 +1,8 @@
-This is Android according to Google Developers. I will be going through their material line by line, and of course use external sources when necessary.
+This app will has two buttons and label showing numbers.
 
-Branches will represent content topics.
+The main purpose is to show understanding of android layouts and widgets.
 
-Contents 
---------------------------
+ I struggled with specifying my new UI string from the strings.xml file using the Editor...I actually forgot to use the Open Editor. 
 
-    1. Android is an ecosystem
-    2. Android platform acrchitecture 
-    3. Adroid Versions
-    4. Challenges of Android app development 
-    5. App fundamentals 
     
     

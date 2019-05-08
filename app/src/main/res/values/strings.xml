@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">plus-minus</string>
+    <string name="edit_number">0</string>
+    <string name="decrement_number">minus</string>
+    <string name="increment_number">plus</string>
+</resources>
