@@ -32,7 +32,7 @@
         android:layout_marginBottom="64dp"
         android:background="@null"
         android:contentDescription="@null"
-        android:onClick="plus"
+
         android:src="@drawable/plus"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -48,7 +48,7 @@
         android:layout_marginBottom="64dp"
         android:background="@null"
         android:contentDescription="@null"
-        android:onClick="minus"
+
         android:src="@drawable/minus"
         android:text="@string/decrement_number"
         app:layout_constraintBottom_toBottomOf="parent"
