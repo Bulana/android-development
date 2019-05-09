@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/ec66c34c76db6ac413cad3b57da31d14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bulana/.gradle/caches/transforms-2/files-2.1/324d5b880099f635cd298bc2ef63a596/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/37bafbcd3b30015c62949d5371c0c075/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/65befa23010862a66a4842861955185b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b02ee8ad6c7ac3e5c165ece32a04a615/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/6a7b5f2ef29f4675c085e9a946d4f091/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/487323465845a56fa33d4a2389b76e41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b2477bd7c2839977823892f2003e55b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/ac6bd04f9640ab0e4adeced9f7ddd500/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/64c2f901028d8dc27d2882b730eb8f73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/191e8327c55b91910b584ca2c7befe50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9a7d907ebcee3b538f87fce785b2dfde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/7764b8b785e7cbe60f290d5d242163f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/f1eb48b1d83e932b48e2ef923073e460/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/aa04e509bb495d96133125a7ecd69923/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b8b6e3f87d601baf7fca7e42df157da6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/8c7fa9a832bd8a42761aa507365be8c3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9972a2f4638a98a11d305a3025af63ed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/bcc4f46a1568f727cffb998a93a6a780/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/7292091a779c0d56b5b58600ea29f6fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9cd4766ef6f2393e5f5bd9c014f4dc8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/c78929894d6e7f705709d614cc8f0d43/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/5524abc0de095aa61cc75b7dd9a48bbd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/142066bc76cd1af8d11b8fdd8089e338/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/fe0fb07d4fbdc3b3b836fdb50a4e283d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/3e951230edb606e2be5312ac55bf8c00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/0971cb99662a2092c98a55843a44d018/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bulana/.gradle/caches/transforms-2/files-2.1/324d5b880099f635cd298bc2ef63a596/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bulana/.gradle/caches/transforms-2/files-2.1/324d5b880099f635cd298bc2ef63a596/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b8b6e3f87d601baf7fca7e42df157da6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b8b6e3f87d601baf7fca7e42df157da6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/8c7fa9a832bd8a42761aa507365be8c3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/8c7fa9a832bd8a42761aa507365be8c3/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b8b6e3f87d601baf7fca7e42df157da6/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.bulana.scroll_view_app.MainActivity
+ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/ec66c34c76db6ac413cad3b57da31d14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/ec66c34c76db6ac413cad3b57da31d14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bulana/.gradle/caches/transforms-2/files-2.1/324d5b880099f635cd298bc2ef63a596/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bulana/.gradle/caches/transforms-2/files-2.1/324d5b880099f635cd298bc2ef63a596/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/37bafbcd3b30015c62949d5371c0c075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/37bafbcd3b30015c62949d5371c0c075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/65befa23010862a66a4842861955185b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/65befa23010862a66a4842861955185b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b02ee8ad6c7ac3e5c165ece32a04a615/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b02ee8ad6c7ac3e5c165ece32a04a615/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/6a7b5f2ef29f4675c085e9a946d4f091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/6a7b5f2ef29f4675c085e9a946d4f091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/487323465845a56fa33d4a2389b76e41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/487323465845a56fa33d4a2389b76e41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b2477bd7c2839977823892f2003e55b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b2477bd7c2839977823892f2003e55b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/ac6bd04f9640ab0e4adeced9f7ddd500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/ac6bd04f9640ab0e4adeced9f7ddd500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/64c2f901028d8dc27d2882b730eb8f73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/64c2f901028d8dc27d2882b730eb8f73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/191e8327c55b91910b584ca2c7befe50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/191e8327c55b91910b584ca2c7befe50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9a7d907ebcee3b538f87fce785b2dfde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9a7d907ebcee3b538f87fce785b2dfde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/7764b8b785e7cbe60f290d5d242163f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/7764b8b785e7cbe60f290d5d242163f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/f1eb48b1d83e932b48e2ef923073e460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/f1eb48b1d83e932b48e2ef923073e460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/aa04e509bb495d96133125a7ecd69923/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/aa04e509bb495d96133125a7ecd69923/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b8b6e3f87d601baf7fca7e42df157da6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/b8b6e3f87d601baf7fca7e42df157da6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/8c7fa9a832bd8a42761aa507365be8c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/8c7fa9a832bd8a42761aa507365be8c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9972a2f4638a98a11d305a3025af63ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9972a2f4638a98a11d305a3025af63ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/bcc4f46a1568f727cffb998a93a6a780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/bcc4f46a1568f727cffb998a93a6a780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/7292091a779c0d56b5b58600ea29f6fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/7292091a779c0d56b5b58600ea29f6fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9cd4766ef6f2393e5f5bd9c014f4dc8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/9cd4766ef6f2393e5f5bd9c014f4dc8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/c78929894d6e7f705709d614cc8f0d43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/c78929894d6e7f705709d614cc8f0d43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/5524abc0de095aa61cc75b7dd9a48bbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/5524abc0de095aa61cc75b7dd9a48bbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/142066bc76cd1af8d11b8fdd8089e338/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/142066bc76cd1af8d11b8fdd8089e338/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/fe0fb07d4fbdc3b3b836fdb50a4e283d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/fe0fb07d4fbdc3b3b836fdb50a4e283d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/3e951230edb606e2be5312ac55bf8c00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bulana/.gradle/caches/transforms-2/files-2.1/3e951230edb606e2be5312ac55bf8c00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/0971cb99662a2092c98a55843a44d018/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bulana/.gradle/caches/transforms-2/files-2.1/0971cb99662a2092c98a55843a44d018/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bulana/Desktop/android-development/app/src/main/AndroidManifest.xml
