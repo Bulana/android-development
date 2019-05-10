@@ -1,0 +1,4 @@
+#Fri May 10 10:01:01 SAST 2019
+base.0=/Users/bulana/Desktop/android-development/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
