@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
-//
+
 public class MainActivity extends AppCompatActivity {
     private int mCount = 0;
     private TextView mShowCount;
