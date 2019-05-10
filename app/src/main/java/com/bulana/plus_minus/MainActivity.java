@@ -3,49 +3,50 @@ package com.bulana.plus_minus;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private TextView counter;
     private ImageButton plusButton;
     private ImageButton minusButton;
-    private int counterNumber;
-
-    private View.OnClickListener clickListener = new View.OnClickListener() {
-        @Override
-        public void onClick(View view) {
-            switch (view.getId()) {
-                case R.id.minusButton:
-                    minus();
-                    break;
-                case R.id.plusButton:
-                    plus();
-                    break;
-            }
-        }
-    };
+    private int counterNumber = 0;
 
 
-        @Override
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         counter = (TextView) findViewById(R.id.textView);
         plusButton = (ImageButton) findViewById(R.id.plusButton);
-        plusButton.setOnClickListener(clickListener);
+        plusButton.setOnClickListener(this);
         minusButton = (ImageButton) findViewById(R.id.minusButton);
-        minusButton.setOnClickListener(clickListener);
+        minusButton.setOnClickListener(this);
+
     }
-    public void minus() {
+
+    @Override
+    public void onClick(View view) {
+        switch (view.getId()) {
+            case R.id.minusButton:
+                decrementMainCounter();
+                break;
+            case R.id.plusButton:
+                incrementMainCounter();
+                break;
+        }
+    }
+
+
+    public void decrementMainCounter() {
             counterNumber--;
-            counter.setText(counterNumber + "");
+            counter.setText(String.valueOf(counterNumber));
     }
-    public void plus() {
+
+    public void incrementMainCounter() {
         counterNumber++;
-        counter.setText(counterNumber + "");
+        counter.setText(String.valueOf(counterNumber));
     }
 
 }
